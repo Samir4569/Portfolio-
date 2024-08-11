@@ -1,4 +1,4 @@
-# Ken_Portfolio
+# Samir_Portfolio
 Example data science portfolio
 
 # [Project 1: Data Science Salary Estimator](https://github.com/PlayingNumbers/ds_salary_proj) 
