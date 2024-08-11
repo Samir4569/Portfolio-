@@ -1,21 +1,19 @@
-# Data Scientist
+# Samir_Portfolio
+Example data science portfolio
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+# [Project 1: Data Science Salary Estimator](https://github.com/PlayingNumbers/ds_salary_proj) 
+* Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
+* Scraped over 1000 job descriptions from glassdoor using python and selenium
+* Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
+* Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
+* Built a client facing API using flask 
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+![](/images/positions_by_state.png)
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+# [Project 2: Ball Image Classifier](https://github.com/PlayingNumbers/ball_image_classifier) 
+For this example project I built a ball classifier to identify balls from different sports. This could be useful for someone who is new to sports from a certain country. They could take a picture of a ball and an app could serve them some information about the history and rules of the game. This is the underlying model for building something with those capabilities. 
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning. For most of the cases this would meet the need of an end user of the app. To get these results I used transfer learning on a CNN trained on resnet34. This created time efficiencies and solid results. 
+
+![](/images/matrix_results.png)
