@@ -1,14 +1,14 @@
 # Samir_Portfolio
 Example data science portfolio
 
-# [Project 1: Wine Quality Classification](https://github.com/Samir4569/Titanic-Project) 
+# [Project 1: Wine Quality Classification](https://github.com/Samir4569/Wine-Quality-Classification)
 * Developed a model to classify wine quality using binary classification.
 * Preprocessed data by handling missing values, encoding variables, and scaling features.
 * Conducted exploratory data analysis (EDA) to understand distributions and visualized key insights.
 * Built and evaluated k-nearest neighbor and Random Forest models, selecting the best performer.
 * Achieved a Random Forest model accuracy of 0.8277, with detailed classification metrics provided.
 
-![](/images/PNG Image .png) 
+![](https://github.com/Samir4569/Wine-Quality-Classification/blob/main/assets/graph.png)
 
 
 # [Project 2: Ball Image Classifier](https://github.com/PlayingNumbers/ball_image_classifier) 
