@@ -1,6 +1,3 @@
-# Samir_Portfolio
-Example data science portfolio
-
 # [Project 1: Wine Quality Classification](https://github.com/Samir4569/Wine-Quality-Classification)
 * Developed a model to classify wine quality using binary classification.
 * Preprocessed data by handling missing values, encoding variables, and scaling features.
