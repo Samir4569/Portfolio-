@@ -1,12 +1,12 @@
 # Samir_Portfolio
 Example data science portfolio
 
-# [Project 1: Data Science Salary Estimator](https://github.com/PlayingNumbers/ds_salary_proj) 
-* Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
-* Scraped over 1000 job descriptions from glassdoor using python and selenium
-* Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
-* Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
-* Built a client facing API using flask 
+# [Project 1: Wine Quality Classification](https://github.com/Samir4569/Titanic-Project) 
+* Developed a model to classify wine quality using binary classification.
+* Preprocessed data by handling missing values, encoding variables, and scaling features.
+* Conducted exploratory data analysis (EDA) to understand distributions and visualized key insights.
+* Built and evaluated k-nearest neighbor and Random Forest models, selecting the best performer.
+* Achieved a Random Forest model accuracy of 0.8277, with detailed classification metrics provided.
 
 ![](/images/PNG Image .png) 
 
