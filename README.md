@@ -8,7 +8,7 @@ Example data science portfolio
 * Built and evaluated k-nearest neighbor and Random Forest models, selecting the best performer.
 * Achieved a Random Forest model accuracy of 0.8277, with detailed classification metrics provided.
 
-![](https://github.com/Samir4569/Wine-Quality-Classification/blob/main/assets/graph.png)
+![](/images/graph.png)
 
 
 # [Project 2: Ball Image Classifier](https://github.com/PlayingNumbers/ball_image_classifier) 
