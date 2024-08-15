@@ -8,7 +8,7 @@
 ![](/images/graph.png)
 
 
-# [Project 2: Airbnb_analysis](https://github.com/Samir4569/Airbnb_analysis)
+# [Project 2: Airbnb Analysis](https://github.com/Samir4569/Airbnb_analysis)
 I analyzed neighborhood trends in Seattle, focusing on availability, prices, and visitor behaviors. The data was preprocessed by converting date formats, handling missing values, and encoding availability. I examined how new visitors impact availability and identified key months with high visitor influx. Additionally, I performed sentiment analysis on visitor reviews to extract the most frequent keywords associated with each neighborhood.
 
 
