@@ -13,3 +13,11 @@ I analyzed neighborhood trends in Seattle, focusing on availability, prices, and
 
 
 ![](images/graph_airbnb.png)
+
+# [Project 3: Titanic Survival](https://github.com/Samir4569/Titanic-Project)
+* Developed a logistic regression model to predict passenger survival on the Titanic using binary classification.
+* Preprocessed the Titanic dataset by filling missing values, encoding categorical variables, and scaling features.
+* Conducted exploratory data analysis (EDA) to examine distributions and correlations between variables.
+* Built and evaluated the logistic regression model, achieving an accuracy score of 0.7598.
+
+![](images/titanic1.png)
