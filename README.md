@@ -8,9 +8,8 @@
 ![](/images/graph.png)
 
 
-# [Project 2: Ball Image Classifier](https://github.com/PlayingNumbers/ball_image_classifier) 
-For this example project I built a ball classifier to identify balls from different sports. This could be useful for someone who is new to sports from a certain country. They could take a picture of a ball and an app could serve them some information about the history and rules of the game. This is the underlying model for building something with those capabilities. 
+# [Project 2: Airbnb_analysis](https://github.com/Samir4569/Airbnb_analysis)
+I analyzed neighborhood trends in Seattle, focusing on availability, prices, and visitor behaviors. The data was preprocessed by converting date formats, handling missing values, and encoding availability. I examined how new visitors impact availability and identified key months with high visitor influx. Additionally, I performed sentiment analysis on visitor reviews to extract the most frequent keywords associated with each neighborhood.
 
-I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning. For most of the cases this would meet the need of an end user of the app. To get these results I used transfer learning on a CNN trained on resnet34. This created time efficiencies and solid results. 
 
-![](/images/PNG Image2 .png)
+![](images/graph_airbnb.png)
